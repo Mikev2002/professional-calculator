@@ -1,4 +1,4 @@
-# 🧮 Professional Calculator (Command-Line Application)
+# Professional Calculator (Command-Line Application)
 
 This is a modular, professional-grade command-line calculator application built with Python.  
 It supports addition, subtraction, multiplication, and division with a REPL (Read-Eval-Print Loop) interface.  
@@ -12,7 +12,7 @@ The project emphasizes:
 
 ---
 
-## 🚀 How to Set Up and Run
+## How to Set Up and Run
 
 ### 1. Clone the Repository
 
